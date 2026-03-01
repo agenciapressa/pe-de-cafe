@@ -27,3 +27,9 @@ Thumbs.db
 .aios-core/local/
 .claude/settings.local.json
 .aios/install-log.txt
+# backups locais
+*.backup.*
+.env.backup.*
+
+# pasta intermediaria de exportacao
+branding/
